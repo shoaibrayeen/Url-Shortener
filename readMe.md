@@ -1,4 +1,4 @@
-## Url Shortner
+## Url Shortener
 Long Urls would be given through API and it'd be converted to Short Url and stored in the Table.
 
 ### Getting Started with Project
@@ -10,12 +10,12 @@ Prerequisite
 
 Clone the repository
 ```sh
-  > git clone https://github.com/shoaibrayeen/Url-Shortner/
+  > git clone https://github.com/shoaibrayeen/Url-Shortener/
 ```
 Create Database Schema Through MySQL
 ```
-  CREATE SCHEMA UrlShortner;
-  Use UrlShortner;
+  CREATE SCHEMA UrlShortener;
+  Use UrlShortener;
   # If you want to change the schema name, you need to change it in application.properties file.
 ```
 Open with Spring Tools 4 and launch App
