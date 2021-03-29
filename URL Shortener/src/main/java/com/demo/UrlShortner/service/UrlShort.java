@@ -60,11 +60,11 @@ public class UrlShort {
 		else if (!isValid(longUrl)) {
 			return "Kindly Enter A Valid URL.";
 		}
-		url object = repoObject.findBylUrl(longUrl);
-		if (object != null ) 
-		{
-			return "my.url/" + object.getShortUrl();
-		}
+		//url object = repoObject.findBylUrl(longUrl);
+		//if (object != null ) 
+		//{
+		//	return "my.url/" + object.getShortUrl();
+		//}
 		Random rand = new Random();
 		int rand_int = rand.nextInt(1000000000);
 		String result = convert(rand_int);
