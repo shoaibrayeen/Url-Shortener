@@ -25,6 +25,6 @@ Now Use Postman to make GET or POST Request
 ### License
 [![Apache License](https://img.shields.io/badge/license-Apache-brightgreen.svg)](http://www.apache.org/licenses/)
 
-**Copyright (c) 2020 Mohd Shoaib Rayeen**
+**Copyright (c) 2020-2021 Mohd Shoaib Rayeen**
 
 This project is licensed under the Apache License - see the LICENSE file for details
